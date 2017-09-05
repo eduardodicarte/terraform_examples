@@ -1,0 +1,4 @@
+vars.tf
+.*
+!.gitignore
+*.tfstate*
